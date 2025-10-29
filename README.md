@@ -4,7 +4,7 @@ Hi 👋 My name is Tastai Khianjai
 Full Stack Developer
 --------------------
 
-I am a dedicated software engineer with a strong focus on web-based development. With a degree in Information Systems and Network Engineering, I have honed skills in front-end and back-end technologies like React and Node.js, As a Full Stack Developer, I’ve led projects aimed at creating scalable software solutions to solve real-world challenges. I’m passionate about continuous learning and innovation, and I aspire to contribute to the tech industry by building impactful, user-centered applications.
+Aspiring Full Stack Developer with hands-on experience in developing web applications using React.tsx, Node.js, and AWS. Currently pursuing a master’s degree in software systems engineering at the University of Technology Sydney. Eager to contribute to a collaborative development team, grow my technical skills, and help build user-focused applications.
 
 * ✉️  You can contact me at [tastthai.654@gmail.com](mailto:tastthai.654@gmail.com)
 
