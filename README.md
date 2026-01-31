@@ -50,14 +50,14 @@ I enjoy solving complex problems and collaborating with teams to build user-focu
 <div align="center">
   <br/>
   <a href="https://github.com/Tastai44">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tastai44&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tastai44's GitHub stats" height="180"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tastai44&theme=tokyonight" alt="Tastai44's GitHub stats" />
   </a>
   <a href="https://github.com/Tastai44">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tastai44&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" height="180"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tastai44&theme=tokyonight" alt="Top Languages" />
   </a>
   <br/>
   <br/>
   <a href="https://github.com/Tastai44">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tastai44&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" width="80%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tastai44&theme=tokyonight" alt="Profile Details" />
   </a>
 </div>
